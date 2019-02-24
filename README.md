@@ -1,2 +1,2 @@
 # springproject
-#Ready to be currently.
+#Ready to be developed.
